@@ -1,0 +1,30 @@
+C:\Users\Computer8800\Desktop\Set2-LucaAlin\Set2-LucaAlin\bin\Debug\net6.0\Set2-LucaAlin.exe
+C:\Users\Computer8800\Desktop\Set2-LucaAlin\Set2-LucaAlin\bin\Debug\net6.0\Set2-LucaAlin.deps.json
+C:\Users\Computer8800\Desktop\Set2-LucaAlin\Set2-LucaAlin\bin\Debug\net6.0\Set2-LucaAlin.runtimeconfig.json
+C:\Users\Computer8800\Desktop\Set2-LucaAlin\Set2-LucaAlin\bin\Debug\net6.0\Set2-LucaAlin.dll
+C:\Users\Computer8800\Desktop\Set2-LucaAlin\Set2-LucaAlin\bin\Debug\net6.0\Set2-LucaAlin.pdb
+C:\Users\Computer8800\Desktop\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\Set2-LucaAlin.csproj.AssemblyReference.cache
+C:\Users\Computer8800\Desktop\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\Set2-LucaAlin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer8800\Desktop\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\Set2-LucaAlin.AssemblyInfoInputs.cache
+C:\Users\Computer8800\Desktop\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\Set2-LucaAlin.AssemblyInfo.cs
+C:\Users\Computer8800\Desktop\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\Set2-LucaAlin.csproj.CoreCompileInputs.cache
+C:\Users\Computer8800\Desktop\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\Set2-LucaAlin.dll
+C:\Users\Computer8800\Desktop\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\refint\Set2-LucaAlin.dll
+C:\Users\Computer8800\Desktop\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\Set2-LucaAlin.pdb
+C:\Users\Computer8800\Desktop\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\Set2-LucaAlin.genruntimeconfig.cache
+C:\Users\Computer8800\Desktop\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\ref\Set2-LucaAlin.dll
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\FP\Set2-LucaAlin\Set2-LucaAlin\bin\Debug\net6.0\Set2-LucaAlin.exe
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\FP\Set2-LucaAlin\Set2-LucaAlin\bin\Debug\net6.0\Set2-LucaAlin.deps.json
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\FP\Set2-LucaAlin\Set2-LucaAlin\bin\Debug\net6.0\Set2-LucaAlin.runtimeconfig.json
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\FP\Set2-LucaAlin\Set2-LucaAlin\bin\Debug\net6.0\Set2-LucaAlin.dll
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\FP\Set2-LucaAlin\Set2-LucaAlin\bin\Debug\net6.0\Set2-LucaAlin.pdb
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\FP\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\Set2-LucaAlin.csproj.AssemblyReference.cache
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\FP\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\Set2-LucaAlin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\FP\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\Set2-LucaAlin.AssemblyInfoInputs.cache
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\FP\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\Set2-LucaAlin.AssemblyInfo.cs
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\FP\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\Set2-LucaAlin.csproj.CoreCompileInputs.cache
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\FP\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\Set2-LucaAlin.dll
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\FP\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\refint\Set2-LucaAlin.dll
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\FP\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\Set2-LucaAlin.pdb
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\FP\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\Set2-LucaAlin.genruntimeconfig.cache
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\FP\Set2-LucaAlin\Set2-LucaAlin\obj\Debug\net6.0\ref\Set2-LucaAlin.dll
